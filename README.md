@@ -24,7 +24,7 @@
 <p align="left"> 
   
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="65" height="60"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="65" height="50"/> 
   </a> 
   
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
