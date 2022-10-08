@@ -4,7 +4,7 @@
 
 -💻 I’m currently learning about network
 
-- 👨‍💻 Resume of my [https://sorawanan.000webhostapp.com/](https://sorawanan.000webhostapp.com/)
+- Resume of my [https://sorawanan.000webhostapp.com/](https://sorawanan.000webhostapp.com/)
 
 - 💬 Email **sorawanan.jea@student.mahidol.ac.th**
 
@@ -19,8 +19,8 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100071800077239" height="30" width="40" />
 </a>
   
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sorawanan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+# 👩‍💻 My GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sorawanan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true) align="center" <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sorawanan&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sorawanan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
