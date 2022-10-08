@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sorawanan Jeamjantarasakhon</h1>
 <h3 align="center">ABOUT ME</h3>
-<h2>😄 College students from MUICT students in information technology are looking for an new experience from you. Because it's what I like and care about. I like to learn new things all the time and I can learn quickly. I am creative and I know how to apply my knowledge for solving immediate problems in work.</h2>
+<p>😄 College students from MUICT students in information technology are looking for an new experience from you. Because it's what I like and care about. I like to learn new things all the time and I can learn quickly. I am creative and I know how to apply my knowledge for solving immediate problems in work.</p>
 
 - 👨‍💻 Resume of my [https://sorawanan.000webhostapp.com/](https://sorawanan.000webhostapp.com/)
 
