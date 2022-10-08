@@ -93,10 +93,11 @@
 <h3 align="left">Connect with me :</h3>
 <p align="left">
   
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100071800077239" target="blank">
+<a target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100071800077239" height="30" width="40" />
+  [https://www.facebook.com/profile.php?id=100071800077239](https://www.facebook.com/profile.php?id=100071800077239)
 </a>
  
-<a href="https://linkedin.com/in/www.linkedin.com/in/sorawanan-jeamjantarasakhon-73385a229" target="blank">
+<a target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sorawanan-jeamjantarasakhon-73385a229/" height="30" width="40" />
 </a>
