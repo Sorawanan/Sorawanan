@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sorawanan Jeamjantarasakhon</h1>
-<h3>ABOUT ME :</h3>
+<h3>About Me :</h3>
 
 - 💻 I’m currently learning about network
 
