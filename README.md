@@ -4,7 +4,7 @@
 
 - 💻 I’m currently learning about network
 
-- Resume of my [https://sorawanan.000webhostapp.com/](https://sorawanan.000webhostapp.com/)
+- 👩 Resume of my [https://sorawanan.000webhostapp.com/](https://sorawanan.000webhostapp.com/)
 
 - 💬 Email **sorawanan.jea@student.mahidol.ac.th**
 
