@@ -2,6 +2,8 @@
 <h3 align="center">ABOUT ME</h3>
 <p>😄 College students from MUICT students in information technology are looking for an new experience from you. Because it's what I like and care about. I like to learn new things all the time and I can learn quickly. I am creative and I know how to apply my knowledge for solving immediate problems in work.</p>
 
+-💻 I’m currently learning about network
+
 - 👨‍💻 Resume of my [https://sorawanan.000webhostapp.com/](https://sorawanan.000webhostapp.com/)
 
 - 💬 Email **sorawanan.jea@student.mahidol.ac.th**
@@ -22,7 +24,7 @@
 <p align="left"> 
   
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="40"/> 
   </a> 
   
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
