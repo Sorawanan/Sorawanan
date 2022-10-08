@@ -3,6 +3,7 @@
 <p>   College students from MUICT students in information technology are looking for an new experience from you. Because it's what I like and care about. I like to learn new things all the time and I can learn quickly. I am creative and I know how to apply my knowledge for solving immediate problems in work.</p>
 
 - 💻 I’m currently learning about network
+- 👀 I’m interested in cyber security and front-end web development
 
 - 👩 Resume of my [https://sorawanan.000webhostapp.com/](https://sorawanan.000webhostapp.com/)
 
