@@ -5,7 +5,8 @@
 
 - 👀 I’m interested in cyber security and front-end web development
 
-- 👩 Resume of my [https://sorawanan.000webhostapp.com/](https://sorawanan.000webhostapp.com/)
+- 👩 programmer : Resume of my [https://sorawanan.000webhostapp.com/](https://sorawanan.000webhostapp.com/)
+- 👩‍💻 network security engineer : Resume of my [https://sorawanancybersecurity.000webhostapp.com/](https://sorawanancybersecurity.000webhostapp.com/)
 
 - 💬 Email **sorawanan.jea@student.mahidol.ac.th**
   
