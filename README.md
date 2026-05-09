@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sorawanan Jeamjantarasakhon</h1>
+<h1 align="center">Hi 👋, I'm Sorawanan Jeam</h1>
 <h3>About Me :</h3>
 
 - 💻 I’m currently learning about network
@@ -7,8 +7,6 @@
 
 - 👩 programmer : Resume of my [https://sorawanan.000webhostapp.com/](https://sorawanan.000webhostapp.com/)
 - 👩‍💻 network security engineer : Resume of my [https://sorawanancybersecurity.000webhostapp.com/](https://sorawanancybersecurity.000webhostapp.com/)
-
-- 💬 Email **sorawanan.jea@student.mahidol.ac.th**
   
 # 👩‍💻 My GitHub Stats:
  
@@ -103,6 +101,6 @@
 <a target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sorawanan-jeamjantarasakhon-73385a229/" height="30" width="40" />
 </a>
-   : https://www.linkedin.com/in/sorawanan-jeamjantarasakhon-73385a229/
+   : https://www.linkedin.com/in/sorawanan-jeam
   
   
