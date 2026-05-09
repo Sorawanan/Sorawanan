@@ -4,9 +4,6 @@
 - 💻 I’m currently learning about network
 
 - 👀 I’m interested in cyber security and front-end web development
-
-- 👩 programmer : Resume of my [https://sorawanan.000webhostapp.com/](https://sorawanan.000webhostapp.com/)
-- 👩‍💻 network security engineer : Resume of my [https://sorawanancybersecurity.000webhostapp.com/](https://sorawanancybersecurity.000webhostapp.com/)
   
 # 👩‍💻 My GitHub Stats:
  
@@ -91,13 +88,7 @@
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
-  
-<a target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100071800077239" height="30" width="40" />
-</a>
-   : https://www.facebook.com/profile.php?id=100071800077239
-  <br/><br/>
- 
+   
 <a target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sorawanan-jeamjantarasakhon-73385a229/" height="30" width="40" />
 </a>
